@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Graph -->
+  <path d="M3 3v18h18" stroke="#1E40AF" stroke-width="1.5" fill="none"/>
+  <path d="M19 5l-4 4-4-4-4 4v5" stroke="#1E40AF" stroke-width="1.5" fill="none"/>
+  <!-- Pound symbol -->
+  <path d="M15 17h-4v-2h3v-2h-3v-1h3V9h-3V7c0-1.1.9-2 2-2h2V3h-2c-2.21 0-4 1.79-4 4v2H8v2h1v1H8v2h1v2c0 1.1.9 2 2 2h4v-1z" stroke="#1E40AF" stroke-width="1.5" fill="none"/>
+</svg> 

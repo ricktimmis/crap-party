@@ -1,0 +1,23 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Navy background -->
+  <rect width="1920" height="1080" fill="#0A2472"/>
+  
+  <!-- St. Andrew's Cross (pure white) -->
+  <path d="M0 0L1920 1080M1920 0L0 1080" stroke="white" stroke-width="100" stroke-opacity="1.0"/>
+  
+  <!-- St. Patrick's Cross (red) - correctly offset pattern -->
+  <!-- Top-left to bottom-right (white above red on left) -->
+  <path d="M20 30L830 480" stroke="#DC2626" stroke-width="50" stroke-opacity="1.0"/>
+  <path d="M1060 610L1750 1000" stroke="#DC2626" stroke-width="50" stroke-opacity="1.0"/>
+  <!-- Bottom-left to top-right (red above white on left) -->
+  <path d="M20 1055L835 600" stroke="#DC2626" stroke-width="50" stroke-opacity="1.0"/>
+  <path d="M1070 465L1750 80" stroke="#DC2626" stroke-width="50" stroke-opacity="1.0"/>
+  
+  <!-- St. George's Cross (white base) -->
+  <rect x="860" y="0" width="200" height="1080" fill="white" fill-opacity="1.0"/>
+  <rect x="0" y="440" width="1920" height="200" fill="white" fill-opacity="1.0"/>
+  
+  <!-- St. George's Cross (red overlay) -->
+  <rect x="885" y="0" width="150" height="1080" fill="#DC2626" fill-opacity="1.0"/>
+  <rect x="0" y="465" width="1920" height="150" fill="#DC2626" fill-opacity="1.0"/>
+</svg> 
